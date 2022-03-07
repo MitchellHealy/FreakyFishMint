@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc57B22751bCf2BCA92c8155F0b65264FD7076F58",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc57B22751bCf2BCA92c8155F0b65264FD7076F58",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Freaky Fish Collection",
+  "SYMBOL": "FFCNFT",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/freaky-fish-collection",
+  "SHOW_BACKGROUND": true
+}
